@@ -1,0 +1,29 @@
+{
+  "name": "passport-fryd",
+  "version": "1.0.0",
+  "description": "Fryd oauth2 authentication strategy for Passport",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashequilibro/passport-fryd.git"
+  },
+  "keywords": [
+    "fryd",
+    "oauth2",
+    "passport",
+    "nodejs",
+    "express"
+  ],
+  "author": "George Danzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nashequilibro/passport-fryd/issues"
+  },
+  "homepage": "https://github.com/nashequilibro/passport-fryd#readme"
+}
