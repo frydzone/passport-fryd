@@ -1,7 +1,7 @@
 {
   "name": "passport-fryd",
-  "version": "1.0.0",
-  "description": "Fryd oauth2 authentication strategy for Passport",
+  "version": "1.0.1",
+  "description": "Fryd OAuth2 authentication strategy for Passport",
   "main": "./lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
