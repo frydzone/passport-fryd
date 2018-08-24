@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nashequilibro/passport-fryd.git"
+    "url": "https://github.com/frydzone/passport-fryd.git"
   },
   "keywords": [
     "fryd",
@@ -23,7 +23,7 @@
   "author": "George Danzer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nashequilibro/passport-fryd/issues"
+    "url": "https://github.com/frydzone/passport-fryd/issues"
   },
-  "homepage": "https://github.com/nashequilibro/passport-fryd#readme"
+  "homepage": "https://github.com/frydzone/passport-fryd#readme"
 }
