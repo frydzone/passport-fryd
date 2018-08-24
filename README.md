@@ -49,13 +49,3 @@ app.get('/auth/fryd/callback', passport.authenticate('fryd', { failureRedirect: 
     res.redirect('/');
   });
 ```
-
-#### Example:
-
-// TODO implement working express example
-
-License
-
-// TODO implement MIT license
-
-Copyright (c) 2017 George Danzer
